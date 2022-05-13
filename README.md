@@ -1,6 +1,6 @@
 #PROJECT YET IN PROGRESS!!
 
-I made this project watching Rocketseat ReactJS Course.
+I made this project while watching Rocketseat (ignote) ReactJS Course.
 
 Stacks: typescript, reactjs.
 
